@@ -1,4 +1,4 @@
-# 🚀 Proyectos Informática Empresarial - UCR
+# 🚀 Repositorio Informática Empresarial - UCR
 
 ¡Bienvenido a mi repositorio! Aquí encontrarás una recopilación de todos los proyectos desarrollados durante mi formación en la **Universidad de Costa Rica**. Este espacio sirve como un archivo de aprendizaje, exploración y evolución en distintas tecnologías y paradigmas de programación.
 
