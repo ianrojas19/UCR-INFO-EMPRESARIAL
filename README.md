@@ -15,27 +15,28 @@ A lo largo de mi carrera, he trabajado con diversos lenguajes de programación y
 - 📜 **JavaScript** - Desarrollo web interactivo
 - 📝 **HTML & CSS** - Diseño y maquetado web
 - 🛢️ **SQL** - Bases de datos relacionales
+- Y otras tecnologías que agregaré más adelante.
 
 ### 🏗️ Frameworks y Herramientas
-- **Laravel** - Desarrollo backend con PHP
-- **React.js** - Interfaces dinámicas con JavaScript
+- **Git & GitHub** - Control de versiones y colaboración
 - **Node.js** - Aplicaciones en el lado del servidor
+- **React.js** - Interfaces dinámicas con JavaScript
+- **Laravel** - Desarrollo backend con PHP
 - **ASP.NET** - Desarrollo web con C#
 - **Docker** - Contenedores y despliegue
-- **Git & GitHub** - Control de versiones y colaboración
 
 ## 📂 Estructura del Repositorio
 El código está organizado en carpetas según el curso o proyecto. Algunos directorios incluyen:
+- **sistemas-operativos/** → Proyectos en C++ relacionados con concurrencia y sistemas
 - **algoritmos/** → Ejercicios de lógica y estructuras de datos
 - **programacion-orientada-objetos/** → Proyectos con Java y C#
-- **desarrollo-web/** → Aplicaciones con Laravel, React y Spring Boot
-- **sistemas-operativos/** → Proyectos en C++ relacionados con concurrencia y sistemas
 - **base-de-datos/** → Consultas y diseño en SQL
+- **desarrollo-web/** → Aplicaciones con Laravel, React y Spring Boot
 
 ## 📌 Objetivo del Repositorio
-- 📖 Servir como referencia de aprendizaje.
+- 📖 Servir como referencia de aprendizaje para nuevos ingresos y estudiantes avanzados.
 - 🏆 Mostrar la evolución en distintos lenguajes y tecnologías.
-- 🔗 Compartir código con compañeros y la comunidad.
+- 🔗 Compartir código con compañer@s y la comunidad.
 - 🛠️ Mejorar continuamente los proyectos con nuevas optimizaciones.
 
 ## 🤝 Contribuciones
@@ -46,5 +47,7 @@ Este repositorio es de uso educativo y está bajo la licencia **MIT**, lo que pe
 
 ---
 
-📧 **Contacto:** Si tienes preguntas o sugerencias, no dudes en escribirme a mi correo **ian.rsq@gmail.com**. ¡Gracias por visitar mi repositorio! 😃
+📧 **Contacto:** Si tienes preguntas o sugerencias, no dudes en escribirme a mi correo **ian.rsq@gmail.com**, espero que sea de mucho provecho para la comunidad.
+
+**Gracias por visitar mi repositorio y formar parte del proyecto.. ¡Pura vida!** 😃
 
