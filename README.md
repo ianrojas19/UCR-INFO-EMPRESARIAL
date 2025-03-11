@@ -43,11 +43,11 @@ El código está organizado en carpetas según el curso o proyecto. Algunos dire
 Si deseas colaborar o dar feedback sobre algún proyecto, ¡eres bienvenido! Puedes abrir un **issue** o realizar un **pull request**.
 
 ## 📜 Licencia
-Este repositorio es de uso educativo y está bajo la licencia **MIT**, lo que permite su uso y modificación con atribución.
+Este repositorio es de uso educativo y está bajo la licencia **MIT**, lo que permite su uso y modificación con atribución, no es necesario en muchos casos :).
 
 ---
 
 📧 **Contacto:** Si tienes preguntas o sugerencias, no dudes en escribirme a mi correo **ian.rsq@gmail.com**, espero que sea de mucho provecho para la comunidad.
 
-**Gracias por visitar mi repositorio y formar parte del proyecto.. ¡Pura vida!** 😃
+**Gracias por visitar y colaborar en nuestro repositorio. ¡Pura vida!** 😃🇨🇷
 
