@@ -47,7 +47,7 @@ Este repositorio es de uso educativo y está bajo la licencia **MIT**, lo que pe
 
 ---
 
-📧 **Contacto:** Si tienes preguntas o sugerencias, no dudes en escribirme a mi correo **ian.rsq@gmail.com**, espero que sea de mucho provecho para la comunidad.
+📧 **Contacto:** Si tienes preguntas o sugerencias, no dudes en escribirme a mi correo **ian.rsq@gmail.com**.
 
 **Gracias por visitar y colaborar en nuestro repositorio. ¡Pura vida!** 😃🇨🇷
 
