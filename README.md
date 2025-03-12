@@ -1,9 +1,9 @@
 # 🚀 Repositorio Informática Empresarial - UCR
 
-¡Bienvenido a mi repositorio! Aquí encontrarás una recopilación de todos los proyectos desarrollados durante mi formación en la **Universidad de Costa Rica**. Este espacio sirve como un archivo de aprendizaje, exploración y evolución en distintas tecnologías y paradigmas de programación.
+¡Bienvenido a mi repositorio! Aquí encontrarás una recopilación de todos los proyectos desarrollados durante mi formación en la **Universidad de Costa Rica**. Este espacio sirve como un archivo de aprendizaje, exploración y evolución en distintas tecnologías y paradigmas de programación en la carrera de Informática Empresarial.
 
 ## 🖥️ Tecnologías y Lenguajes
-A lo largo de mi carrera, he trabajado con diversos lenguajes de programación y frameworks, entre los que destacan:
+A lo largo de mi carrera, trabajaré con diversos lenguajes de programación y frameworks, entre los que destacan:
 
 ### 🔹 Lenguajes de Programación
 - 🖥️ **PSeInt** - Algoritmos y lógica de programación
@@ -23,7 +23,6 @@ A lo largo de mi carrera, he trabajado con diversos lenguajes de programación y
 - **React.js** - Interfaces dinámicas con JavaScript
 - **Laravel** - Desarrollo backend con PHP
 - **ASP.NET** - Desarrollo web con C#
-- **Docker** - Contenedores y despliegue
 
 ## 📂 Estructura del Repositorio
 El código está organizado en carpetas según el curso o proyecto. Algunos directorios incluyen:
@@ -40,14 +39,14 @@ El código está organizado en carpetas según el curso o proyecto. Algunos dire
 - 🛠️ Mejorar continuamente los proyectos con nuevas optimizaciones.
 
 ## 🤝 Contribuciones
-Si deseas colaborar o dar feedback sobre algún proyecto, ¡eres bienvenido! Puedes abrir un **issue** o realizar un **pull request**.
+Si desean colaborar o dar feedback sobre algún proyecto, ¡eres bienvenido! Puedes abrir un **issue** o realizar un **pull request**.
 
 ## 📜 Licencia
-Este repositorio es de uso educativo y está bajo la licencia **MIT**, lo que permite su uso y modificación con atribución, no es necesario en muchos casos :).
+Este repositorio es de uso educativo y está bajo la licencia **MIT**, lo que permite su uso y modificación, en caso de realizar una exposición o extensión, es necesario dar créditos :).
 
 ---
 
-📧 **Contacto:** Si tienes preguntas o sugerencias, no dudes en escribirme a mi correo **ian.rsq@gmail.com**.
+📧 **Contacto:** Si tienen preguntas o sugerencias, no duden en escribirme a mi correo **ian.rsq@gmail.com**.
 
 **Gracias por visitar y colaborar en nuestro repositorio. ¡Pura vida!** 😃🇨🇷
 
