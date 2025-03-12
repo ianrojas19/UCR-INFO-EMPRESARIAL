@@ -26,11 +26,11 @@ A lo largo de mi carrera, trabajaré con diversos lenguajes de programación y f
 
 ## 📂 Estructura del Repositorio
 El código está organizado en carpetas según el curso o proyecto. Algunos directorios incluyen:
-- **sistemas-operativos/** → Proyectos en C++ relacionados con concurrencia y sistemas
-- **algoritmos/** → Ejercicios de lógica y estructuras de datos
-- **programacion-orientada-objetos/** → Proyectos con Java y C#
+- **IntroducciónComp/** → Proyectos en C++ relacionados con concurrencia y sistemas
+- **LógicaInfo/** → Ejercicios de lógica y estructuras de datos
+- **ProgramaciónI/** → Proyectos con Java y C#
 - **base-de-datos/** → Consultas y diseño en SQL
-- **desarrollo-web/** → Aplicaciones con Laravel, React y Spring Boot
+- Y asi con todas las asignaturas estipuladas en el plan de estudios de la carrera.
 
 ## 📌 Objetivo del Repositorio
 - 📖 Servir como referencia de aprendizaje para nuevos ingresos y estudiantes avanzados.
