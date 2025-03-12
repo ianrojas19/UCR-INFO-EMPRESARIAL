@@ -44,6 +44,9 @@ Si desean colaborar o dar feedback sobre algún proyecto, ¡eres bienvenido! Pue
 ## 📜 Licencia
 Este repositorio es de uso educativo y está bajo la licencia **MIT**, lo que permite su uso y modificación, en caso de realizar una exposición o extensión, es necesario dar créditos :).
 
+## 📜 Legal
+Este repositorio contiene **únicamente contenido que pueda ser de carácter público**, no se comparten exámenes u otra clase de material que la Universidad de Costa Rica consideré **privado o confidencial** dentro de su normativa interna.
+
 ---
 
 📧 **Contacto:** Si tienen preguntas o sugerencias, no duden en escribirme a mi correo **ian.rsq@gmail.com**.
